@@ -1,0 +1,8 @@
+gogs:1.0.15
+anchore-container-scanner:1.0.22
+sonar:2.11
+sonar-quality-gates:1.3.1
+xunit,2.3.9
+git:4.2.2
+git-client-plugin:3.2.1
+token-macro:2.10
